@@ -9,7 +9,7 @@ This repository shows an example of automating a very simple node.js project in 
 
 ## Architecture
 
-<img src="resources/draw.png" height="80%" width="80%"/>
+<img src="resources/draw.png" height="50%" width="50%"/>
 
 ##### Description
 
