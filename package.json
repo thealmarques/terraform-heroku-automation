@@ -1,0 +1,23 @@
+{
+  "name": "terraform-heroku-automation",
+  "version": "1.0.0",
+  "description": "Heroku automation with Terraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealmarques/terraform-heroku-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thealmarques/terraform-heroku-automation/issues"
+  },
+  "homepage": "https://github.com/thealmarques/terraform-heroku-automation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
